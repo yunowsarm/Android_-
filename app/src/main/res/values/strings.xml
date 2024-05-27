@@ -1,0 +1,14 @@
+<resources>
+
+        <string name="app_name">五子棋</string>
+        <string name="welcome_name">欢迎来到五子棋</string>
+        <string name="current_mode_name">模式:</string>
+        <string-array name="mode_name">
+            <item>人机对战</item>
+            <item>双人对战</item>
+        </string-array>
+        <string name="btn_begin_name">重置</string>
+        <string name="btn_prompt_name">提示</string>
+        <string name="btn_repent_name">悔棋</string>
+        <string name="btn_help_name">帮助</string>
+</resources>
